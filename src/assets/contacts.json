@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "firstName": "Ben",
+        "lastName": "Khan",
+        "email": "benkhan219@is51.com",
+        "phone": "(559)666-6666",
+        "editing": false
+        
+    },
+    {
+        "id": 2,
+        "firstName": "Freddy",
+        "lastName": "Mercury",
+        "email": "Fred9@singing.com",
+        "phone": "(559)234-7552",
+        "editing": false
+
+    },
+    {
+        "id": 3,
+        "firstName": "Mike",
+        "lastName": "Tyson",
+        "email": "mikedeath00@death.com",
+        "phone": "(559)555-4567",
+        "editing": false
+
+    }
+]
